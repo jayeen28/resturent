@@ -1,0 +1,13 @@
+body{
+    margin:0;
+    font-family:'poppins',roboto;
+}
+.container{
+    padding:0% 6%;
+}
+.d-flex{
+    display:flex;
+}
+h1{
+    color: #0E0E0E;
+}
