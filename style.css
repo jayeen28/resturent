@@ -92,3 +92,25 @@ a#gradient-button {
 .r-box img {
     width: 100%;
 }
+/**recipies section end**/
+.s-box {
+    width: 33.33%;
+    text-align: center;
+}
+.s-boxes {
+    box-shadow: #00000038 0px 0px 19px;
+    border-radius: 20px;
+    padding: 2% 0px;
+}
+.s-box p {
+    font-size: 16px;
+}
+
+.s-box h1 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #18191F;
+    font-family: monospace;
+    margin: 16px;
+}
+/**subscription section end**/
