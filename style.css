@@ -114,3 +114,14 @@ a#gradient-button {
     margin: 16px;
 }
 /**subscription section end**/
+footer p {
+    margin: 0;
+}
+
+footer {
+    background-color: #0B0D17;
+    text-align: center;
+    color: white;
+    padding: 3% 0% 6% 0%;
+}
+/**footer end**/
