@@ -57,3 +57,38 @@ a#gradient-button {
 .abt-img img {
     width: 70%;
 }
+/**about section end**/
+.recipi-info p {
+    margin: auto;
+    width: 60%;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    letter-spacing: .5px;
+}
+
+.recipi-info h1 {
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.recipi-info {
+    text-align: center;
+}
+.r-box p {
+    letter-spacing: .5px;
+    line-height: 26px;
+}
+
+.r-box h1 {
+    color: black;
+    font-size: 26px;
+    margin-bottom: -8px;
+}
+.r-box {
+    box-shadow: #00000038 0px 0px 19px;
+    margin: 2.5%;
+    padding: 1.5%;
+    border-radius: 20px;
+}
+.r-box img {
+    width: 100%;
+}
