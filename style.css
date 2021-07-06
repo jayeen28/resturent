@@ -143,7 +143,7 @@ a#gradient-button {
     margin-top: 0;
 }
 form.c-form {
-    padding: 0% 12%;
+    padding: 0% 8%;
 }
 input#email {
     margin-right: .6%;
@@ -154,7 +154,7 @@ input#phone {
 form.c-form input,textarea{
     display: block;
     width: 100%;
-    padding: 1% 0;
+    padding: 2% 0;
     margin: 1% 0;
     background-color: #F6F6F6;
     border: 2px solid #FC8D48;
