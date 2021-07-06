@@ -3,11 +3,57 @@ body{
     font-family:'poppins',roboto;
 }
 .container{
-    padding:0% 6%;
+    padding:2% 6%;
 }
 .d-flex{
     display:flex;
 }
 h1{
-    color: #0E0E0E;
+    color:#575757;
+}
+.h-description h1 {
+    font-size:60px;
+    margin: 0;
+}
+.h-description p {
+    color: #828282;
+    font-size: 20px;
+    font-weight: 500;
+    width: 80%;
+    margin-bottom:60px;
+}
+.h-description, .h-img,.abt-desc,.abt-img{
+    width: 50%;
+    margin: auto 0px;
+}
+.h-img img{
+    width:100%;
+}
+a#gradient-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(to right,#FBA24F,#FF1E1E);
+    padding: 10px 30px 10px 30px;
+    border-radius: 20px;
+}
+/**header section end**/
+.about {
+    background-image: url(images/about-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.abt-desc p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #333333;
+    width: 90%;
+    letter-spacing: .8px;
+    text-align: justify;
+    margin-bottom: 20%;
+}
+.abt-desc h1 {
+    font-size: 50px;
+}
+.abt-img img {
+    width: 70%;
 }
