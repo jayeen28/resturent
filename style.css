@@ -68,9 +68,6 @@ a#gradient-button {
 .abt-desc h1 {
     font-size: 50px;
 }
-.abt-img img {
-    width: 70%;
-}
 /**about section end**/
 .recipi-info p {
     margin: auto;
@@ -105,6 +102,7 @@ a#gradient-button {
 }
 .r-box img {
     width: 100%;
+    border-radius: 20px;
 }
 /**recipies section end**/
 .s-box {
