@@ -10,6 +10,7 @@ body{
 }
 h1{
     color:#575757;
+    font-size: 40px;
 }
 .header-logo {
     width: 23.6%;
@@ -68,9 +69,6 @@ a#gradient-button {
     text-align: justify;
     margin-bottom: 20%;
 }
-.abt-desc h1 {
-    font-size: 50px;
-}
 /**about section end**/
 .recipi-info p {
     margin: auto;
@@ -81,7 +79,6 @@ a#gradient-button {
 }
 
 .recipi-info h1 {
-    font-size: 40px;
     margin-bottom: 0;
 }
 .recipi-info {
@@ -130,6 +127,42 @@ a#gradient-button {
     margin: 16px;
 }
 /**subscription section end**/
+.form-head h1 {
+    text-align: center;
+}
+form.c-form {
+    padding: 0% 12%;
+}
+input#email {
+    margin-right: .6%;
+}
+input#phone {
+    margin-left: .6%;
+}
+form.c-form input,textarea{
+    display: block;
+    width: 100%;
+    padding: 1% 0;
+    margin: 1% 0;
+    background-color: #F6F6F6;
+    border: 2px solid #FC8D48;
+    border-radius: 10px;
+    box-shadow: #fc8d483b 0px 0px 15px;
+}
+#submit-button {
+    margin-top: 2%;
+    font-family: 'Poppins';
+    font-weight: 600;
+    color: #585858;
+    font-size: 16px;
+}
+::placeholder {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 5px;
+}
+/***form section end**/
 footer p {
     margin: 0;
 }
